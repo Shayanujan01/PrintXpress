@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.printxpress"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="35" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@drawable/printxpress_launcher"
+        android:label="PrintXpress"
+        android:roundIcon="@drawable/printxpress_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.printxpress.ProductsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.printxpress.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.printxpress.ProductDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.printxpress.OrdersActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.printxpress.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.printxpress.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.printxpress.SupportActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.printxpress.NotificationsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.printxpress.SplashActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.printxpress.MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

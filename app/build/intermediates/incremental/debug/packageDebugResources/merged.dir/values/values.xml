@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paper_sizes">
+        <item>A4</item>
+        <item>A3</item>
+        <item>A5</item>
+    </string-array>
+    <string-array name="paper_types">
+        <item>Standard</item>
+        <item>Glossy</item>
+        <item>Matte</item>
+    </string-array>
+    <string-array name="print_types">
+        <item>Black &amp; White</item>
+        <item>Colour</item>
+    </string-array>
+    <color name="background">#F7F9FC</color>
+    <color name="black">#000000</color>
+    <color name="dark_navy">#0D1B2A</color>
+    <color name="error_red">#F44336</color>
+    <color name="light_blue">#E3F2FD</color>
+    <color name="primary_blue">#1976D2</color>
+    <color name="success_green">#4CAF50</color>
+    <color name="text_primary">#17202A</color>
+    <color name="text_secondary">#757575</color>
+    <color name="warning_orange">#FF9800</color>
+    <color name="white">#FFFFFF</color>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">@color/dark_navy</item>
+
+        <item name="android:statusBarColor">@color/dark_navy</item>
+        <item name="android:navigationBarColor">@color/dark_navy</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <item name="android:colorAccent">@color/primary_blue</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+    </style>
+</resources>

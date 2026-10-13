@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.printxpress.app-mergeDebugResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\PrintXpress\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "17",
+                        "endColumns": "12",
+                        "endOffsets": "720"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "951",
+                        "endLines": "40",
+                        "endColumns": "12",
+                        "endOffsets": "1590"
+                    }
+                },
+                {
+                    "source": "C:\\PrintXpress\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,2,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "207,57,344",
+                        "endLines": "12,6,17",
+                        "endColumns": "19,19,19",
+                        "endOffsets": "336,199,467"
+                    },
+                    "to": {
+                        "startLines": "2,7,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,185,328",
+                        "endLines": "6,11,15",
+                        "endColumns": "19,19,19",
+                        "endOffsets": "180,323,448"
+                    }
+                },
+                {
+                    "source": "C:\\PrintXpress\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "11,12,6,21,7,5,19,15,16,20,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,341,141,623,186,93,524,403,451,573,254",
+                        "endColumns": "44,39,43,43,44,46,47,46,48,48,39",
+                        "endOffsets": "335,376,180,662,226,135,567,445,495,617,289"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "453,498,538,582,626,671,718,766,813,862,911",
+                        "endColumns": "44,39,43,43,44,46,47,46,48,48,39",
+                        "endOffsets": "493,533,577,621,666,713,761,808,857,906,946"
+                    }
+                }
+            ]
+        }
+    ]
+}

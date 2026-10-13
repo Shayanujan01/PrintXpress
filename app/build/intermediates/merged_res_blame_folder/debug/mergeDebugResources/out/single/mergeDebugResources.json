@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.example.printxpress.app-debug-3:/layout_activity_main.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/layout_activity_orders.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/layout/activity_orders.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/drawable-nodpi_printxpress_launcher.png.flat",
+        "source": "com.example.printxpress.app-main-5:/drawable-nodpi/printxpress_launcher.png"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/layout_activity_support.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/layout/activity_support.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/layout_activity_splash.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/layout_activity_profile.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/drawable_ic_profile_default.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/drawable/ic_profile_default.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/drawable_button_primary.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/drawable/button_primary.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/drawable_ic_printxpress.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/drawable/ic_printxpress.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/layout_activity_register.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/layout_activity_notifications.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/layout/activity_notifications.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/anim_splash_animation.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/anim/splash_animation.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/drawable_card_background.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/drawable_support_card_background.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/drawable/support_card_background.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/layout_activity_products.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/layout/activity_products.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/layout_activity_product_details.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/layout/activity_product_details.xml"
+    },
+    {
+        "merged": "com.example.printxpress.app-debug-3:/layout_activity_home.xml.flat",
+        "source": "com.example.printxpress.app-main-5:/layout/activity_home.xml"
+    }
+]

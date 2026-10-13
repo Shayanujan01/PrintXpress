@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#0D1B2A"
+        android:pathData="M0,0 L108,0 L108,108 L0,108 Z" />
+
+    <!-- Printer body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,38 L80,38 L80,48 L28,48 Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,48 L86,48 C90,48 94,52 94,56 L94,76 L80,76 L80,91 L28,91 L28,76 L14,76 L14,56 C14,52 18,48 22,48 Z" />
+
+    <!-- Paper -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,25 L74,25 L74,45 L34,45 Z" />
+
+    <!-- Printed page -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M36,68 L72,68 L72,86 L36,86 Z" />
+
+    <!-- Print lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M41,73 L67,73 L67,76 L41,76 Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M41,79 L61,79 L61,82 L41,82 Z" />
+
+    <!-- Speed lines -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M8,53 L22,53 L22,57 L8,57 Z" />
+
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M8,61 L22,61 L22,65 L8,65 Z" />
+
+</vector>
